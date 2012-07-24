@@ -1,0 +1,5 @@
+Ceres Solver - A non-linear least squares minimizer
+==================================================
+Please see ceres.pdf in docs/ for a tutorial and reference.
+
+git clone https://code.google.com/p/ceres-solver/
